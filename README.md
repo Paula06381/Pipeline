@@ -1,5 +1,5 @@
 # Pipeline
-##Descripción general
+## Descripción general
 
 Este proyecto desarrolla un modelo de clasificación supervisada para la detección de fraude en transacciones con tarjeta de crédito.
 Se utiliza el conjunto de datos Credit Card Fraud Detection, que contiene transacciones etiquetadas como fraudulentas o legítimas.
