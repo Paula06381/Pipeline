@@ -13,8 +13,8 @@ Implementar una transformación logarítmica para reducir la asimetría del mont
 
 ## Metodología
 ### Carga y exploración inicial de datos
--Se cargó el archivo creditcard.csv y se verificó la dimensión del conjunto de datos.
--Se analizó la proporción de la variable objetivo (Class), evidenciando un fuerte desbalance entre transacciones normales y fraudulentas.
+- Se cargó el archivo creditcard.csv y se verificó la dimensión del conjunto de datos.
+- Se analizó la proporción de la variable objetivo (Class), evidenciando un fuerte desbalance entre transacciones normales y fraudulentas.
 
 ### Análisis exploratorio
 - Se graficó la distribución de la variable Amount para observar su comportamiento y posible asimetría.
